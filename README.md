@@ -1,2 +1,2 @@
 # DrugDesign
-Scripts related to the analysis of molecular dynamics simulations related to structure-based covalent drug design.
+Analysis scripts for molecular dynamics simulations related to structure-based covalent drug design projects.
